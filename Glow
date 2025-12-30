@@ -186,6 +186,36 @@
         "startSec": 0.8,
         "name": "Crit"
     },
+"84586700252767": {
+    "startSec": 0.3,
+    "hold": 0.15,
+    "name": "MASTERY Suppression M2",
+    "distanceAdj": 0,
+    "rollOnFail": false,
+    "repeats": [],
+    "enabled": true,
+    "priority": "parry"
+},
+"121092258344696": {
+    "startSec": 0.8,
+    "hold": 0.15,
+    "name": "MASTERY Debilitating Slash M2",
+    "distanceAdj": 0,
+    "rollOnFail": false,
+    "repeats": [],
+    "enabled": true,
+    "priority": "parry"
+},
+"113848079779223": {
+    "startSec": 0.2023,
+    "hold": 0.15,
+    "name": "DEX Sudden Kick",
+    "distanceAdj": 0,
+    "rollOnFail": false,
+    "repeats": [1.2],
+    "enabled": true,
+    "priority": "parry"
+},
     "104463070615470": {
         "distanceAdj": 0,
         "rollOnFail": false,
